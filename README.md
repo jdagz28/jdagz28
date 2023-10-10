@@ -12,7 +12,7 @@
   </div>
 </div>
              
-<summary><h1>💻Campus 19 Projects🛠️</></h1></summary>
+<summary><h1>💻 Campus 19 Projects 🛠️🛠️</h1></summary>
 
 | Rank | Project | Language | Grade |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
