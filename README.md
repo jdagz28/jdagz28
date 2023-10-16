@@ -23,6 +23,6 @@
 | 2 | push_swap | C | 125% | ![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swapm.png)|
 | 2 | pipex | C, UNIX | 115% | ![pipex](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/pipexn.png)|
 | 2 | FdF | C | 125% | ![FdF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfm.png)|
-| 3 | Philosophers | C | 🔨🔨Working... | ![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersn.png)|
+| 3 | Philosophers | C | 125% | ![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersm.png)|
 | 3 | minishell | C, UNIX | 🔨🔨Working... | ![minishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelln.png)|
 
