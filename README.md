@@ -15,15 +15,17 @@
              
 <summary><h1>💻 Campus 19 Projects 🛠️🛠️</h1></summary>
 
-| Rank | Project | Language | Grade |  Medal |
+| Rank | Project | Language | Status |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | libft | C | 125% | ![Libft](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/libftm.png)|
-| 1 | get_next_line | C | 125% | ![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linem.png)|
-| 1 | ft_printf | C | 100% | ![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)|
-| 1 | born2beroot | UNIX, System Ad | 125% | ![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2berootm.png)|
-| 2 | push_swap | C | 125% | ![push_swap](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swapm.png)|
-| 2 | pipex | C, UNIX | 115% | ![pipex](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/pipexn.png)|
-| 2 | FdF | C | 125% | ![FdF](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/fdfm.png)|
-| 3 | Philosophers | C | 125% | ![Philosophers](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/philosophersm.png)|
-| 3 | minishell | C, UNIX | 🔨🔨Working... | ![minishell](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minishelln.png)|
+| 1 | libft | C |✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" width="50%">|
+| 1 | get_next_line | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png" width="50%">|
+| 1 | ft_printf | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png" width="50%">|
+| 1 | born2beroot | UNIX, System Ad | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png" width="50%">|
+| 2 | push_swap | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png" width="50%">|
+| 2 | pipex | C, UNIX | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/pipexn.png" width="50%">|
+| 2 | FdF | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/fdfm.png" width="50%">|
+| 3 | Philosophers | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosophersm.png" width="50%">|
+| 3 | minishell | C, UNIX | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="50%">|
+| 4 | NetPractice | Network | 🔨🔨Working... | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="50%">|
+
 
