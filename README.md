@@ -28,4 +28,5 @@
 | 3 | minishell | C, UNIX | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="50%">|
 | 4 | NetPractice | Network | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="50%">|
 
-
+---
+![](https://komarev.com/ghpvc/?username=jdagz28&color=blue)
