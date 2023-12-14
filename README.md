@@ -26,8 +26,8 @@
 | 2 | FdF | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/fdfm.png" width="50%">|
 | 3 | Philosophers | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosophersm.png" width="50%">|
 | 3 | minishell | C, UNIX | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="50%">|
+| 4 | NetPractice | Network | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="50%">|
 | 4 | CPP Ring 1 | C++ | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
-| 4 | NetPractice | Network | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="50%">|
 
 ---
 ![](https://komarev.com/ghpvc/?username=jdagz28&color=blue)
