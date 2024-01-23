@@ -27,7 +27,7 @@
 | 3 | Philosophers | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosophersm.png" width="50%">|
 | 3 | minishell | C, UNIX | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minishelln.png" width="50%">|
 | 4 | NetPractice | Network | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="50%">|
-| 4 | cub3d | C, Graphics | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cub3dn.png" width="50%">|
+| 4 | cub3d | C, Graphics | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cub3dn.png" width="50%">|
 | 4 | CPP Ring 1 | C++ | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
 
 ---
