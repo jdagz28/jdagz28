@@ -4,7 +4,7 @@
 
 <div  align="left">
   <div style="display: inline_block"><br>
-    <h2>Technologies and Tools:</h2>
+    <h2>🛠️ Technologies and Tools</h2>
         <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
         <img align="center" alt="c" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
         <img align="center" alt="c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
@@ -17,7 +17,7 @@
   </div>
 </div>
 <br>
-<summary><h2>💻 Campus 19 Projects 🛠️🛠️</h2></summary>
+<summary><h2>💻 Campus 19 Projects</h2></summary>
 
 | Rank | Project | Type | Status |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
