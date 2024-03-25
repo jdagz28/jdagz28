@@ -18,6 +18,7 @@
 </div>
 <br>
 <summary><h2>💻 Campus 19 Projects</h2></summary>
+  
 | Rank | Project | Type | Status |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | libft | C | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png" width="50%">|
