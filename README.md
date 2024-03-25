@@ -17,7 +17,7 @@
   </div>
 </div>
 <br>
-<h2>💻 Campus 19 Projects</h2>
+<h2>📂 Campus 19 Projects</h2>
   
 | Rank | Project | Type | Status |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
