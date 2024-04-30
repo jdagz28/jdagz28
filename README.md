@@ -34,5 +34,4 @@
 | 4 | CPP Ring 2 | C++ | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
 | 4 | Inception | Docker | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/inceptionn.png" width="50%">|
 
----
-![](https://komarev.com/ghpvc/?username=jdagz28&color=blue)
+
