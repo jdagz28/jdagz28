@@ -1,7 +1,5 @@
 ### Hey, I'm Joshua D.! 👋
 
-[![jdagoy's 42 stats](https://badge42.coday.fr/api/v2/clu6wkrjn2130801p4q6uhbcz2/stats?cursusId=21&coalitionId=54)](https://github.com/Coday-meric/badge42)
-
 <h2>🛠️ Technologies and Tools</h2>
 <div  align="left">
   <div style="display: inline_block">
