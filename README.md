@@ -27,8 +27,9 @@
 | 4 | NetPractice | Network | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/netpracticen.png" width="50%">|
 | 4 | cub3d | C, Graphics | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cub3dn.png" width="50%">|
 | 4 | CPP Ring 1 | C++ | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
-| 4 | CPP Ring 2 | C++ | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
-| 4 | Inception | Docker | ⏳ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/inceptionn.png" width="50%">|
+| 4 | CPP Ring 2 | C++ | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/cppn.png" width="50%">|
+| 4 | Inception | Docker | ✅ | <img src="https://github.com/byaliego/42-project-badges/blob/main/badges/inceptionn.png" width="50%">|
+| 4 | webserv | C++, HTML | ⏳ | <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/webservn.png" width="50%">|
 
 ---
 ![](https://komarev.com/ghpvc/?username=jdagz28&color=blue)
