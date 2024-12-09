@@ -1,4 +1,7 @@
-### Hey, I'm Joshua D.! 👋
+## Hey, I'm Joshua D.! 👋
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jdagz28&theme=dark&show_icons=true)
+
 <div  align="left">
   <div style="display: inline_block"><br>
     <h4>Technologies and Tools:</h4>
@@ -12,7 +15,8 @@
   </div>
 </div>
 
-<summary><h1>💻 Campus 19 Projects 🛠️🛠️</h1></summary>
+---
+## 💻 Campus 19 Projects 🛠️🛠️
 
 | Rank | Project | Type | Status |  Medal |
 | :---: | :--- | :---: | :---: | :---: |
