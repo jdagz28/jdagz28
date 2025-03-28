@@ -1,4 +1,6 @@
 ## Hey, I'm Joshua D.! 👋
+[![jdagoy's 42 stats](https://badge.nimon.fr/api/v2/cm8t91uhh6307801mzbzt0ekn1/stats?cursusId=21&coalitionId=54)](https://github.com/Nimon77/badge42)
+
 <div  align="left">
   <div style="display: inline_block"><br>
     <h4>Technologies and Tools:</h4>
